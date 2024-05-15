@@ -1,6 +1,5 @@
 {
-  "rates": [
-    { "bad": 0, "medium": 0, "good": 0}
-  ],
+  "rates": 
+    { "bad": 0, "medium": 0, "good": 0},
   "ips": []
 }
