@@ -1,8 +1,6 @@
 {
-  rates: {
-    bad: 0,  
-    medium: 0,
-    good: 0,
-    ips: []
-  }
+  "rates": [
+    { "bad": 0, "medium": 0, "good": 0}
+  ],
+  "ips": []
 }
