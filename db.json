@@ -2,6 +2,6 @@
   "rates": 
     { "bad": "111", "medium": "222", "good": "777"},
   "ips": [
-{ip: "ip aqui", rate: "avaliação aqui"}
+{"ip": "ip aqui", "rate": "avaliação aqui"}
 ]
 }
