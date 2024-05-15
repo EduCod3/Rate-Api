@@ -1,5 +1,5 @@
 {
   "rates": 
-    { "bad": 0, "medium": 0, "good": 0},
+    { "bad": 111, "medium": 222, "good": 777},
   "ips": []
 }
