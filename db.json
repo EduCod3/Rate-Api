@@ -2,5 +2,7 @@
   "rates": 
     { "bad": "0", "medium": "0", "good": "0"},
   "ips":
-    ["ips_aqui", "tipo_do_rate"]
+    [
+      ["ips_aqui", "tipo_do_rate_aqui"]
+    ]
 }
