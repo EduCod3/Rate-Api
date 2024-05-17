@@ -1,7 +1,4 @@
 {
   "rates": 
     { "bad": "111", "medium": "222", "good": "777"},
-  "ips": [
-    ["ip_aqui", "tipo_da_avaliação_aqui"]
-  ]
 }
